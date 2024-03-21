@@ -9,7 +9,7 @@ Team Name: JKNN GWU
 
 **Model Definition**
 
-Our model employs statistical features derived from historical match data to predict the outcomes of NCAA basketball games. Unlike traditional embedding-based approaches, this model leverages a combination of team performance metrics such as field goal percentage (FGP), 3-point field goal percentage (FGP3), and free throw percentage (FTP) to understand and predict game results.
+Our model employs statistical features derived from historical match data to predict the outcomes of NCAA basketball games. This model leverages a combination of team performance metrics such as field goal percentage (FGP), 3-point field goal percentage (FGP3), and free throw percentage (FTP) to understand and predict game results.
 
 The model operates by processing these key features for each team involved in a matchup:
 
